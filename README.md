@@ -9,6 +9,6 @@
 
   - test 3 master
 
-- test merge
+- test
 
 - test
